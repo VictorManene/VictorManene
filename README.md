@@ -1,4 +1,4 @@
-Training models to listen, think, and reply — like a polite genius
+Training models to listen, think and reply — like a polite genius
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victormanene.vm@gmail.com) 
 
